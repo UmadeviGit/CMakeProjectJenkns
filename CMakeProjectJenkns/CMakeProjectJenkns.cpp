@@ -8,5 +8,7 @@ using namespace std;
 int main()
 {
 	cout << "Hello CMake." << endl;
+	cout << "commit initited." << endl;
+
 	return 0;
 }
