@@ -11,7 +11,7 @@ int main()
 	cout << "commit initited." << endl;
 	cout << "commit 2 initited." << endl;
 	cout << "commit 3 initited." << endl;
-
+cout << "commit 4 initited." << endl;
 
 	return 0;
 }
